@@ -1,0 +1,25 @@
+[
+  {
+    "id": "IMPORT-GAS-EXAMPLE-001",
+    "subject": "가스일반",
+    "topic": "상태량",
+    "question": "일정 온도에서 이상기체의 절대압력이 두 배가 되면 부피는?",
+    "choices": [
+      "절반",
+      "두 배",
+      "세 배",
+      "네 배"
+    ],
+    "answer": 1,
+    "explanation": "보일 법칙 PV=일정에 따라 온도와 몰수가 일정할 때 압력이 두 배가 되면 부피는 절반이다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Craftsman-Gas-CBT",
+    "verificationStatus": "pending",
+    "reviewNote": "양식 예제. 실제 등록 전에 출처·권리·정답을 확인하세요.",
+    "version": "gas-main",
+    "rights": "자체 제작 학습문항, CC BY 4.0, Craftsman-Gas-CBT contributors. 외부 기출 복제 없음."
+  }
+]
